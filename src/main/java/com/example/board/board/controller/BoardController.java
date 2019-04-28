@@ -2,6 +2,7 @@ package com.example.board.board.controller;
 
 import com.example.board.board.entity.BoardEntity;
 import com.example.board.board.service.BoardService;
+import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
